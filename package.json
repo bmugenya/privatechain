@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/bmugenya/privatechain/issues"
   },
-  "homepage": "https://github.com/bmugenya/privatechain#readme"
+  "homepage": "https://github.com/bmugenya/privatechain#readme",
+  "dependencies": {
+    "crypto-js": "^3.1.9-1"
+  }
 }
